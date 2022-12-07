@@ -1,0 +1,4 @@
+module.exports = {
+    "hello_world": '你好, 世界!',
+
+};
